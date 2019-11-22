@@ -1,0 +1,15 @@
+/Users/Ardley/Projects/TechJobsMVC/src/TechJobs/bin/Debug/netcoreapp2.0/web.config
+/Users/Ardley/Projects/TechJobsMVC/src/TechJobs/bin/Debug/netcoreapp2.0/appsettings.json
+/Users/Ardley/Projects/TechJobsMVC/src/TechJobs/bin/Debug/netcoreapp2.0/bower.json
+/Users/Ardley/Projects/TechJobsMVC/src/TechJobs/bin/Debug/netcoreapp2.0/bundleconfig.json
+/Users/Ardley/Projects/TechJobsMVC/src/TechJobs/bin/Debug/netcoreapp2.0/Properties/launchSettings.json
+/Users/Ardley/Projects/TechJobsMVC/src/TechJobs/bin/Debug/netcoreapp2.0/TechJobs.deps.json
+/Users/Ardley/Projects/TechJobsMVC/src/TechJobs/bin/Debug/netcoreapp2.0/TechJobs.runtimeconfig.json
+/Users/Ardley/Projects/TechJobsMVC/src/TechJobs/bin/Debug/netcoreapp2.0/TechJobs.runtimeconfig.dev.json
+/Users/Ardley/Projects/TechJobsMVC/src/TechJobs/bin/Debug/netcoreapp2.0/TechJobs.dll
+/Users/Ardley/Projects/TechJobsMVC/src/TechJobs/bin/Debug/netcoreapp2.0/TechJobs.pdb
+/Users/Ardley/Projects/TechJobsMVC/src/TechJobs/obj/Debug/netcoreapp2.0/TechJobs.csprojAssemblyReference.cache
+/Users/Ardley/Projects/TechJobsMVC/src/TechJobs/obj/Debug/netcoreapp2.0/TechJobs.AssemblyInfoInputs.cache
+/Users/Ardley/Projects/TechJobsMVC/src/TechJobs/obj/Debug/netcoreapp2.0/TechJobs.AssemblyInfo.cs
+/Users/Ardley/Projects/TechJobsMVC/src/TechJobs/obj/Debug/netcoreapp2.0/TechJobs.dll
+/Users/Ardley/Projects/TechJobsMVC/src/TechJobs/obj/Debug/netcoreapp2.0/TechJobs.pdb
